@@ -11,7 +11,7 @@ else if(sayi ==4){
 else if(sayi == 8){                        // Hangi sayinin hangi renk olacaginin kodu
     return 12;
 }
-else if(sayi == 16){
+else if(sayi == 16){ 
     return 4;
 }
 else if(sayi == 32){
